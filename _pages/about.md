@@ -14,14 +14,12 @@ redirect_from:
 
 
 
-
-
 Publications
 ======
 
 
 
-<img align="left" src="../images/CaPhy.gif" width="320px" style="padding-right: 15px">[CaPhy: Capturing Physical Properties for Animatable Human Avatars](https://suzhaoqi.github.io/projects/CaPhy/)
+<img align="left" src="../images/CaPhy.gif" width="320px" style="padding-right: 15px;padding-bottom: 60px ">[CaPhy: Capturing Physical Properties for Animatable Human Avatars](https://suzhaoqi.github.io/projects/CaPhy/)
 
 [Zhaoqi Su](https://suzhaoqi.github.io/), **Liangxiao Hu**, [Siyou Lin](https://jsnln.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Justus Thies](https://justusthies.github.io/), [Yebin Liu](http://www.liuyebin.com/)
 
@@ -31,7 +29,9 @@ Publications
 
 
 
-<img align="left" src="../images/proxycap.png" width="320px" height="160px" style="padding-right: 15px">[Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning](https://liuyebin.com/proxycap/)
+
+
+<img align="left" src="../images/proxycap.png" width="320px" height="220px" style= "padding-right: 15px;padding-bottom: 60px ">[Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning](https://liuyebin.com/proxycap/)
 
 [Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), **Liangxiao Hu**, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)
 
