@@ -14,6 +14,28 @@ redirect_from:
 
 
 
+
+
 Publications
 ======
+
+
+
+<img align="left" src="../images/CaPhy.gif" width="320px" style="padding-right: 15px">[CaPhy: Capturing Physical Properties for Animatable Human Avatars](https://suzhaoqi.github.io/projects/CaPhy/)
+
+[Zhaoqi Su](https://suzhaoqi.github.io/), **Liangxiao Hu**, [Siyou Lin](https://jsnln.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Justus Thies](https://justusthies.github.io/), [Yebin Liu](http://www.liuyebin.com/)
+
+*In IEEE/CVF International Conference on Computer Vision (ICCV)*, 2023
+
+[Project Page](https://suzhaoqi.github.io/projects/CaPhy/) / [arXiv](https://arxiv.org/abs/2308.05925) 
+
+
+
+<img align="left" src="../images/proxycap.png" width="320px" height="160px" style="padding-right: 15px">[Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning](https://liuyebin.com/proxycap/)
+
+[Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), **Liangxiao Hu**, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)
+
+[Project Page](https://liuyebin.com/proxycap/) / [arXiv](https://arxiv.org/pdf/2307.01200.pdf) 
+
+
 
