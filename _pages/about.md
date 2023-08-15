@@ -31,7 +31,7 @@ Publications
 
 
 
-<img align="left" src="../images/proxycap.png" width="320px" height="240px" style= "padding-right: 15px;padding-bottom: 80px ">**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**
+<img align="left" src="../images/proxycap.png" width="320px"  style= "padding-right: 15px;padding-bottom: 80px ">**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**
 
 [Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), **Liangxiao Hu**, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)
 
