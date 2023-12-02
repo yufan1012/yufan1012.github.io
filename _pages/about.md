@@ -25,13 +25,13 @@ Publications
 
 *In ICCV*, 2023
 
-[Project Page](https://suzhaoqi.github.io/projects/CaPhy/) / [arXiv](https://arxiv.org/abs/2308.05925) 
+[Project Page](https://suzhaoqi.github.io/projects/CaPhy/) / [arXiv](https://arxiv.org/abs/2308.05925)  -->
 
 
 
 
 
-<img align="left" src="../images/proxycap.png" width="320px"  style= "padding-right: 15px;padding-bottom: 80px ">**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**
+<!-- <img align="left" src="../images/proxycap.png" width="320px"  style= "padding-right: 15px;padding-bottom: 80px ">**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**
 
 [Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), **Liangxiao Hu**, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)
 
@@ -43,4 +43,4 @@ Publications
 
 **Shunyuan Zheng**, Jiamin Sun, [Qinglin Liu](https://scholar.google.com/citations?user=hsu1cSIAAAAJ), [Yuankai Qi](https://sites.google.com/site/yuankiqi), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)
 
-[Project Page](https://github.com/ShunyuanZheng/OWI-DehazeGAN) / [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Overwater_Image_Dehazing_via_Cycle-Consistent_Generative_Adversarial_Network_ACCV_2020_paper.pdf) 
+[Code](https://github.com/ShunyuanZheng/OWI-DehazeGAN) / [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Overwater_Image_Dehazing_via_Cycle-Consistent_Generative_Adversarial_Network_ACCV_2020_paper.pdf) 
