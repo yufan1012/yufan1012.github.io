@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shunyuan Zheng (郑顺源)"
+title                    : "Shunyuan Zheng (郑顺源)'s Homepage"
 title_separator          : "-"
 name                     : &name "Shunyuan Zheng"
-description              : &description ""
+description              : &description "Shunyuan Zheng (郑顺源)'s Homepage"
 url                      : https://shunyuanzheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shunyuanzheng/shunyuanzheng.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ph.D. student at HIT"
+  name             : "Shunyuan Zheng (郑顺源)"
   avatar           : "zsy.jpg"
-  bio              : "My current research focus is human novel view synthesis."
+  bio              : "Ph.D. student at Harbin Institute of Technology"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
