@@ -25,8 +25,7 @@ Publications
 arXiv 2023<br>
 [<i class="fas fa-fw fa-globe"></i>Projectpage](https://animatable-gaussians.github.io/) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2311.16096.pdf) /
-[<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=kOmZxD0HxZI) /
-[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/lizhe00/AnimatableGaussians)<br>
+[<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=kOmZxD0HxZI)<br>
 
 ---
 
@@ -35,8 +34,8 @@ arXiv 2023<br>
 <b>Overwater Image Dehazing via Cycle-Consistent Generative Adversarial Network</b><br>
 <b>Shunyuan Zheng</b>, Jiamin Sun, [Qinglin Liu](https://scholar.google.com/citations?user=hsu1cSIAAAAJ), [Yuankai Qi](https://sites.google.com/site/yuankiqi), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)<br>
 <i>Asian Conference on Computer Vision (<b>ACCV</b>), 2020</i><br>
-[<i class="fas fa-fw fa-globe"></i>Code]https://github.com/ShunyuanZheng/OWI-DehazeGAN) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Overwater_Image_Dehazing_via_Cycle-Consistent_Generative_Adversarial_Network_ACCV_2020_paper.pdf) /
+[<i class="fas fa-fw fa-github"></i>Code]https://github.com/ShunyuanZheng/OWI-DehazeGAN) /
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Overwater_Image_Dehazing_via_Cycle-Consistent_Generative_Adversarial_Network_ACCV_2020_paper.pdf)<br>
 
 
 
