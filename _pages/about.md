@@ -34,7 +34,7 @@ arXiv 2023<br>
 <b>Overwater Image Dehazing via Cycle-Consistent Generative Adversarial Network</b><br>
 <b>Shunyuan Zheng</b>, Jiamin Sun, [Qinglin Liu](https://scholar.google.com/citations?user=hsu1cSIAAAAJ), [Yuankai Qi](https://sites.google.com/site/yuankiqi), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)<br>
 <i>Asian Conference on Computer Vision (<b>ACCV</b>), 2020</i><br>
-[<i class="fas fa-fw fa-github"></i>Code]https://github.com/ShunyuanZheng/OWI-DehazeGAN) /
+[<i class="fas fa-fw fa-github"></i>Code](https://github.com/ShunyuanZheng/OWI-DehazeGAN) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Overwater_Image_Dehazing_via_Cycle-Consistent_Generative_Adversarial_Network_ACCV_2020_paper.pdf)<br>
 
 
