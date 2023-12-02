@@ -39,7 +39,8 @@ Publications
 
 
 
-<img align="left" src="../images/OWI-DehazeGAN.png" width="320px"  style= "padding-right: 15px;padding-bottom: 80px ">**"Overwater Image Dehazing via Cycle-Consistent Generative Adversarial Network**
+<img align="left" src="../images/OWI-DehazeGAN.jpg" width="320px"  style= "padding-right: 15px;padding-bottom: 80px ">**"Overwater Image Dehazing via Cycle-Consistent Generative Adversarial Network**
 
 [**Shunyuan Zheng**](https://shunyuanzheng.github.io/), Jiamin Sun, Qinglin Liu, [Yuankai Qi](https://sites.google.com/site/yuankiqi), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)
+
 [Project Page](https://github.com/ShunyuanZheng/OWI-DehazeGAN) / [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Overwater_Image_Dehazing_via_Cycle-Consistent_Generative_Adversarial_Network_ACCV_2020_paper.pdf) 
