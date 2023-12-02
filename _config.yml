@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liangxiao Hu (胡良校)"
+title                    : "Shunyuan Zheng (郑顺源)"
 title_separator          : "-"
-name                     : &name "Liangxiao Hu"
+name                     : &name "Shunyuan Zheng"
 description              : &description ""
-url                      : https://huliangxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shunyuanzheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huliangxiao/huliangxiao.github.io"
+repository               : "shunyuanzheng/shunyuanzheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Phd student at HIT"
+  name             : "Ph.D. student at HIT"
   avatar           : "shuaihu.jpg"
-  bio              : "My current research focus is the digital human reconstruction."
+  bio              : "My current research focus is human novel view synthesis."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=nAHH79oAAAAJ&hl=zh-CN&oi=ao"
+  email            : "sawyer0503@hit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huliangxiao"
+  github           : "ShunyuanZheng"
   google_plus      :
   keybase          :
   instagram        :
