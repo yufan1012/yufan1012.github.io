@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Projectpage of GPS-Gaussian</title>
     <!-- Bootstrap -->
-    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+    <link href="assets/GPS-Gaussian/css/bootstrap-4.4.1.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
   </head>
 
@@ -16,29 +16,32 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <h2>Animatable Gaussians: Learning Pose-dependent Gaussian Maps <br>for High-fidelity Human Avatar Modeling</h2>
+            <h2>GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting<br>for Real-time Human Novel View Synthesis</h2>
 <!--            <h4 style="color:#5a6268;">arXiv 2023</h4>-->
             <hr>
-            <h6> <a href="https://lizhe00.github.io/" target="_blank">Zhe Li<sup>1</sup></a>,
-                <a href="https://zhengzerong.github.io/" target="_blank">Zerong Zheng<sup>2</sup></a>,
-                <a href="https://lizhenwangt.github.io/" target="_blank">Lizhen Wang<sup>1</sup></a>,
-                <a href="https://liuyebin.com" target="_blank">Yebin Liu<sup>1</sup></a></h6>
-            <p><sup>1</sup>Tsinghua University<sup>&nbsp;&nbsp;&nbsp;&nbsp;2</sup>NNKosmos Technology</p>
+            <h6> <a href="https://shunyuanzheng.github.io" target="_blank">Shunyuan Zheng<sup>1</sup></a>,
+                <a href="https://morpheo.inrialpes.fr/people/zhou" target="_blank">Boyao Zhou<sup>2</sup></a>,
+                <a href="https://dsaurus.github.io/saurus" target="_blank">Ruizhi Shao<sup>2</sup></a>,
+                <a href="https://scholar.google.com/citations?user=PG1mUewAAAAJ" target="_blank">Boning Liu<sup>2</sup></a>,
+                <a href="http://homepage.hit.edu.cn/zhangshengping" target="_blank">Shengping Zhang<sup>1</sup></a>,
+                <a href="https://liqiangnie.github.io" target="_blank">Liqiang Nie<sup>1</sup></a>,
+                <a href="https://liuyebin.com" target="_blank">Yebin Liu<sup>2</sup></a></h6>
+            <p><sup>1</sup>Harbin Institute of Technology<sup>&nbsp;&nbsp;&nbsp;&nbsp;2</sup>Tsinghua University</p>
             <!-- <p> <a class="btn btn-secondary btn-lg" href="" role="button">Paper</a> 
                 <a class="btn btn-secondary btn-lg" href="" role="button">Code</a> 
                 <a class="btn btn-secondary btn-lg" href="" role="button">Data</a> </p> -->
 
             <div class="row justify-content-center">
               <div class="column">
-                  <p class="mb-5"><a class="btn btn-large btn-light" href="https://arxiv.org/pdf/2311.16096.pdf" role="button"  target="_blank">
+                  <p class="mb-5"><a class="btn btn-large btn-light" href="https://arxiv.org/pdf/xxx" role="button"  target="_blank">
                     <i class="fa fa-file"></i> Paper</a> </p>
               </div>
               <div class="column">
-                <p class="mb-5"><a class="btn btn-large btn-light" href="https://www.youtube.com/watch?v=kOmZxD0HxZI" role="button"  target="_blank">
+                <p class="mb-5"><a class="btn btn-large btn-light" href="https://youtu.be/8fSsXy27PVk" role="button"  target="_blank">
                   <i class="fa fa-youtube"></i> Video</a></p>
             </div>
               <div class="column">
-                  <p class="mb-5"><a class="btn btn-large btn-light" href="https://github.com/lizhe00/AnimatableGaussians" role="button"  target="_blank">
+                  <p class="mb-5"><a class="btn btn-large btn-light" href="https://github.com/ShunyuanZheng/GPS-Gaussian" role="button"  target="_blank">
                     <i class="fa fa-github"></i> Code</a></p>
               </div>
             </div>
@@ -56,12 +59,12 @@
         <div class="col-12 text-center">
           <h3>Abstract</h3>
             <hr style="margin-top:0px">
-          <!-- <h6 style="color:#8899a5"> We present <b>Animatable Gaussians</b>, a new avatar representation<br> that leverages powerful 2D CNNs and explicit 3D Gaussian splatting for high-fidelity human avatar modeling.</h6> -->
-            <video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+<!--             <video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
                   <source src="assets/motivation.mp4" type="video/mp4">
-            </video>
+            </video> -->
+            <img src="assets/GPS-Gaussian/images/teaser.png" width="100%" alt=""/>
               <!-- <br><br> -->
-          <p class="text-left"> Modeling animatable human avatars from RGB videos is a long-standing and challenging problem. Recent works usually adopt MLP-based neural radiance fields (NeRF) to represent 3D humans, but it remains difficult for pure MLPs to regress pose-dependent garment details. To this end, we introduce Animatable Gaussians, a new avatar representation that leverages powerful 2D CNNs and 3D Gaussian splatting to create high-fidelity avatars. To associate 3D Gaussians with the animatable avatar, we learn a parametric template from the input videos, and then parameterize the template on two front & back canonical Gaussian maps where each pixel represents a 3D Gaussian. The learned template is adaptive to the wearing garments for modeling looser clothes like dresses. Such template-guided 2D parameterization enables us to employ a powerful StyleGAN-based CNN to learn the pose-dependent Gaussian maps for modeling detailed dynamic appearances. Furthermore, we introduce a pose projection strategy for better generalization given novel poses. Overall, our method can create lifelike avatars with dynamic, realistic and generalized appearances. Experiments show that our method outperforms other state-of-the-art approaches. 
+          <p class="text-left"> We present a new approach, termed GPS-Gaussian, for synthesizing novel views of a character in a real-time manner. The proposed method enables 2K-resolution rendering under a sparse-view camera setting. Unlike the original Gaussian Splatting or neural implicit rendering methods that necessitate per-subject optimizations, we introduce Gaussian parameter maps defined on the source views and regress directly Gaussian Splatting properties for instant novel view synthesis without any fine-tuning or optimization. To this end, we train our Gaussian parameter regression module on a large amount of human scan data, jointly with a depth estimation module to lift 2D parameter maps to 3D space. The proposed framework is fully differentiable and experiments on several datasets demonstrate that our method outperforms state-of-the-art methods while achieving an exceeding rendering speed. 
             </p>
         </div>
       </div>
@@ -73,27 +76,41 @@
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h3>Animation</h3>
+          <h3>Free View Rendering</h3>
             <hr style="margin-top:0px">
-          <h6 style="color:#8899a5"> Avatars animated by motions from <a href="https://amass.is.tue.mpg.de/" target="_blank">AMASS</a></h6>
-            <video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-              <source src="assets/teaser.mp4" type="video/mp4">
+          <h6 style="color:#8899a5"> Data collected by ourselves</h6>
+            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+              <source src="assets/GPS-Gaussian/videos/zsy_freeview.mp4" type="video/mp4">
             </video>
-            <video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-              <source src="assets/basketball.mp4" type="video/mp4">
+          <h6 style="color:#8899a5"> Data from <a href="https://dna-rendering.github.io/" target="_blank">DNA-Rendering</a></h6>
+            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+              <source src="assets/GPS-Gaussian/videos/dna173_freeview.mp4" type="video/mp4">
             </video>
-            <video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-              <source src="assets/football.mp4" type="video/mp4">
+            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+              <source src="assets/GPS-Gaussian/videos/dna188_freeview.mp4" type="video/mp4">
             </video>
-            <video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-              <source src="assets/dancing.mp4" type="video/mp4">
+              <!-- <br><br> -->
+        </div>
+      </div>
+    </div>
+  </section>
+  <br>
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h3>Live Demo</h3>
+            <hr style="margin-top:0px">
+          <h6 style="color:#8899a5"> Live demo for handling challenging hairstyles, human-object interaction and multi-person scenario</h6>
+            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+              <source src="assets/GPS-Gaussian/videos/wcy_live.mp4" type="video/mp4">
             </video>
-            <video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-              <source src="assets/irish_dancing.mp4" type="video/mp4">
+            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+              <source src="assets/GPS-Gaussian/videos/jds_live.mp4" type="video/mp4">
             </video>
-          <h6 style="color:#8899a5"> Avatars animated by other motions</h6>
-            <video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-              <source src="assets/others.mp4" type="video/mp4">
+            <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+              <source src="assets/GPS-Gaussian/videos/zby_live.mp4" type="video/mp4">
             </video>
               <!-- <br><br> -->
         </div>
@@ -107,10 +124,11 @@
       <div class="row">
           <div class="col-12 text-center">
             <h3>Method</h3>
-            <img src="assets/overview.jpg" width="100%" alt=""/>
+              <hr style="margin-top:0px">
+            <img src="assets/GPS-Gaussian/images/pipeline.png" width="100%" alt=""/>
             <p>&nbsp;</p>
             <p>
-              <b>Illustration of the pipeline.</b> It contains two main steps: 1) Reconstruct a character-specific template from multi-view images. 2) Predict pose-dependent Gaussian maps through the StyleUNet, and render the synthesized avatar by LBS and differentiable rasterization.
+              <b>Overview of GPS-Gaussian.</b> Given RGB images of a human-centered scene with sparse camera views and a target novel viewpoint, we select the adjacent two views on which to formulate our Gaussian representation. We extract the image features followed by conducting an iterative depth estimation. For each source view, the depth map and the RGB image serve as a 3D position map and a color map, respectively, to formulate the Gaussian representation while the other parameters of 3D Gaussians are predicted in a pixel-wise manner. The Gaussian parameter maps defined on 2D image planes of both views are further unprojected to 3D space and aggregated for novel view rendering. The fully differentiable framework enables all networks a joint training mechanism.
             </p>
             <p>&nbsp;</p>
           </div>
@@ -125,9 +143,9 @@
         <div class="col-12 text-center">
             <h3>Demo Video</h3>
             <hr style="margin-top:0px">
-            If the video does not play, please click <a href="assets/demo_video.mp4" target="_blank">here</a> to watch it.
+            If the video does not play, please click <a href="assets/GPS-Gaussian/videos/demo_video.mp4" target="_blank">here</a> to watch it.
             <div class="embed-responsive embed-responsive-16by9">
-                <iframe style="clip-path: inset(1px 1px)" width="100%" height="100%" src="https://www.youtube.com/embed/kOmZxD0HxZI?si=8oKMaUEBXd-LqokT" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                <iframe style="clip-path: inset(1px 1px)" width="100%" height="100%" src="https://youtu.be/8fSsXy27PVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             </div>
         </div>
       </div>
@@ -142,9 +160,9 @@
           <h3>Citation</h3>
           <hr style="margin-top:0px">
               <pre style="background-color: #e9eeef;padding: 1.25em 1.5em">
-<code>@article{li2023animatablegaussians,
-  title={Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling},
-  author={Li, Zhe and Zheng, Zerong and Wang, Lizhen and Liu, Yebin},
+<code>@article{zheng2023gpsgaussian,
+  title={GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis},
+  author={Zheng, Shunyuan and Zhou, Boyao and Shao, Ruizhi and Liu, Boning and Zhang, Shengping and Nie, Liqiang and Liu, Yebin},
   journal={arXiv},
   year={2023}
 }</code></pre>

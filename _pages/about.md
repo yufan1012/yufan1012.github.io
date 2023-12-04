@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title:
+excerpt:
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,12 +18,12 @@ Publications
 ======
 
 
-<img align="left" width="300" height="225" src="../images/GPS-Gaussian.jpg" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="300" height="225" src="../images/GPS-Gaussian.png" style="padding-right:20px; padding-top:20px"/>
 
 <b>GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis</b><br>
-<b>Shunyuan Zheng</b>, [Boyao Zhou](https://morpheo.inrialpes.fr/people/zhou), [Ruizhi Shao](https://dsaurus.github.io/saurus/), [Boning Liu](https://scholar.google.com/citations?user=PG1mUewAAAAJ), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io/), [Yebin Liu](http://www.liuyebin.com/)<br>
+<b>Shunyuan Zheng</b>, [Boyao Zhou](https://morpheo.inrialpes.fr/people/zhou), [Ruizhi Shao](https://dsaurus.github.io/saurus), [Boning Liu](https://scholar.google.com/citations?user=PG1mUewAAAAJ), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io), [Yebin Liu](http://www.liuyebin.com)<br>
 arXiv 2023<br>
-[<i class="fas fa-fw fa-globe"></i>Projectpage](https://shunyuanzheng.github.io/GPS-Gaussian/) /
+[<i class="fas fa-fw fa-globe"></i>Project](https://shunyuanzheng.github.io/GPS-Gaussian) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://xxx.pdf) /
 [<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=xxx)<br>
 
