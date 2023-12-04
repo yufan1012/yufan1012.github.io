@@ -25,7 +25,7 @@ Publications
 arXiv 2023<br>
 [<i class="fas fa-fw fa-globe"></i>Project](https://shunyuanzheng.github.io/GPS-Gaussian) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://xxx.pdf) /
-[<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=8fSsXy27PVk)<br>
+[<i class="fas fa-fw fa-video"></i>Video](https://youtu.be/TBIekcqt0j0)<br>
 
 ---
 
