@@ -24,7 +24,7 @@ Publications
 <b>Shunyuan Zheng</b>, [Boyao Zhou](https://morpheo.inrialpes.fr/people/zhou), [Ruizhi Shao](https://dsaurus.github.io/saurus), [Boning Liu](https://scholar.google.com/citations?user=PG1mUewAAAAJ), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io), [Yebin Liu](http://www.liuyebin.com)<br>
 arXiv 2023<br>
 [<i class="fas fa-fw fa-globe"></i>Project](https://shunyuanzheng.github.io/GPS-Gaussian) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://xxx.pdf) /
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2312.02155.pdf) /
 [<i class="fas fa-fw fa-video"></i>Video](https://youtu.be/TBIekcqt0j0)<br>
 
 ---
