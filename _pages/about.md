@@ -47,7 +47,7 @@ Master of Engineering. Sep. 2019 - Jun. 2021<br>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
-<a href="https://ci.hfut.edu.cn/English/Home.htm"><b>School of Computer Science and Information Engineering</b></a><br>
+<a href="https://ci.hfut.edu.cn/English/Home.htm">School of Computer Science and Information Engineering</a><br>
 <a href="https://www.hfut.edu.cn/">Hefei University of Technology</a><br>
 </td>
 </tr>
