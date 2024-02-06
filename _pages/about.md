@@ -21,34 +21,34 @@ My research focuses on **human-centric 3D vision**, including 3D human reconstru
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/hit.png"/> 
+<img width="80" src="../images/hit.png"> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Ph.D. Student. Sep. 2021 - Jun. 2025 (Expected)<br>
-<a href="https://encs.hit.edu.cn//">Faculty of Computing</a><br>
-<a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a><br>
+<a href="https://encs.hit.edu.cn">Faculty of Computing</a><br>
+<a href="http://en.hit.edu.cn">Harbin Institute of Technology</a><br>
 </td>
 </tr>
 
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/hit.png"/> 
+<img width="80" src="../images/hit.png"> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Master of Engineering. Sep. 2019 - Jun. 2021<br>
-<a href="https://cst.hitwh.edu.cn//">School of Computer Science and Technology</a><br>
-<a href="https://www.hitwh.edu.cn/">Harbin Institute of Technology (Weihai)</a><br>
+<a href="https://cst.hitwh.edu.cn">School of Computer Science and Technology</a><br>
+<a href="https://www.hitwh.edu.cn">Harbin Institute of Technology (Weihai)</a><br>
 </td>
 </tr>
 
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/hfut.jpeg"/> 
+<img width="80" src="../images/hfut.jpeg"> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <a href="https://ci.hfut.edu.cn/English/Home.htm">School of Computer Science and Information Engineering</a><br>
-<a href="https://www.hfut.edu.cn/">Hefei University of Technology</a><br>
+<a href="https://www.hfut.edu.cn">Hefei University of Technology</a><br>
 </td>
 </tr>
 </table>    
