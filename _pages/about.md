@@ -73,7 +73,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 
 <b>Tele-Aloha: A Telepresence System with Low-budget and High-authenticity Using Sparse RGB Cameras</b><br>
 Hanzhang Tu, [Ruizhi Shao](https://dsaurus.github.io/saurus), Xue Dong, <b>Shunyuan Zheng</b>, Hao Zhang, Lili Chen, Meili Wang, Wenyu Li, Siyan Ma, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Boyao Zhou](https://yaourtb.github.io), [Yebin Liu](http://www.liuyebin.com)<br>
-<i><b>SIGGRAPH<b> Conference Proceedings, 2024</i>  <font color="#dd0000">(Highlight)</font><br>
+<i><b>SIGGRAPH<b> Conference Proceedings, 2024</i><br>
 <i class="fas fa-fw fa-globe"></i>Project (coming soon) /
 <i class="fas fa-fw fa-file-pdf"></i>Paper (coming soon)
 
