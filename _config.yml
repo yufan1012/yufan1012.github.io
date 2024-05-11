@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shunyuan Zheng (郑顺源)'s Homepage"
+title                    : "Yufan Chen (陈宇凡)'s Homepage"
 title_separator          : "-"
-name                     : &name "Shunyuan Zheng"
-description              : &description "Shunyuan Zheng (郑顺源)'s Homepage"
-url                      : https://shunyuanzheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yufan Chen"
+description              : &description "Yufan Chen (陈宇凡)'s Homepage"
+url                      : https://yufan1012.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shunyuanzheng.github.io"
+repository               : "yufan1012/yufan1012.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shunyuan Zheng"
-  avatar           : "avatar.jpeg"
+  name             : "Yufan Chen"
+  avatar           : "cyf.jpg"
   bio              : "Ph.D. student at Harbin Institute of Technology"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=nAHH79oAAAAJ"
-  email            : "sawyer0503@hit.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=CnrH4HwAAAAJ"
+  email            : "yufan_chen@stu.hit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ShunyuanZheng"
+  github           : "yufan1012"
   google_plus      :
   keybase          :
   instagram        :
