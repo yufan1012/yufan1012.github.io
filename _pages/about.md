@@ -22,7 +22,7 @@ Publications
 
 <b>MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar</b><br>
 <b>Yufan Chen</b>, [Lizhen Wang](https://lizhenwangt.github.io/), [Qijing Li](https://www.liuyebin.com/student.html), [Hongjiang Xiao](https://www.semanticscholar.org/author/Hongjiang-Xiao/2747760), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Hongxun Yao](http://homepage.hit.edu.cn/yaohongxun), [Yebin Liu](http://www.liuyebin.com)<br>
-arXiv 2023<br>
+SIGGRAPH 2024<br>
 [<i class="fas fa-fw fa-globe"></i>Project](https://yufan1012.github.io/MonoGaussianAvatar) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/abs/2312.04558) /
 [<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/embed/3UvBkyPc-oc)<br>
